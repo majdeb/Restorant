@@ -14,5 +14,14 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majdeb/Restorant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/majdeb/Restorant/issues"
+  },
+  "homepage": "https://github.com/majdeb/Restorant#readme"
 }
